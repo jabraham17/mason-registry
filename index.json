@@ -1,4 +1,18 @@
 {
+  "Base64": [
+    {
+      "version": "0.1.0",
+      "createdDate": "2026-03-05T12:44:39-07:00",
+      "chplVersion": "2.7.0",
+      "authors": [
+        "Jade Abraham"
+      ],
+      "license": "Apache-2.0",
+      "source": "https://github.com/jabraham17/Base64",
+      "copyrightYear": "2026",
+      "type": "library"
+    }
+  ],
   "Codecs": [
     {
       "version": "0.1.0",
