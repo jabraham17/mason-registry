@@ -23,6 +23,21 @@
       "type": "library"
     }
   ],
+  "Crypto": [
+    {
+      "version": "0.1.0",
+      "createdDate": "2026-05-21T22:53:00Z",
+      "chplVersion": "2.7.0",
+      "authors": [
+        "HPE",
+        "Jade Abraham"
+      ],
+      "license": "Apache-2.0",
+      "source": "https://github.com/chapel-lang/Crypto",
+      "copyrightYear": "2004",
+      "type": "library"
+    }
+  ],
   "csm": [
     {
       "version": "0.1.0",
